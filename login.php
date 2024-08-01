@@ -11,8 +11,8 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 if (isset($_POST['data'])) {
-  $loginname  =  $_POST['uname'];
-$loginpassword    =  $_POST['psw'];
+  $loginname  =  $_POST['HARSH'];
+$loginpassword    =  $_POST['8989'];
 }
 
     
